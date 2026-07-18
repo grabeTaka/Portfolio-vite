@@ -1,0 +1,18 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vercel
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+
+# Configs locais / ferramentas
+.claude
+.vscode
+.idea
+.vite
+.eslintcache
+Thumbs.db
